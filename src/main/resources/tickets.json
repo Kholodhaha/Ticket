@@ -1,0 +1,37 @@
+[
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "carrier": "Pobeda",
+    "flightTime": 800,
+    "price": 450
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "carrier": "Aeroflot",
+    "flightTime": 680,
+    "price": 430
+  },
+  {
+    "from": "Владивосток",
+    "to": "Тель-Авив",
+    "carrier": "Pobeda",
+    "flightTime": 600,
+    "price": 600
+  },
+  {
+    "from": "Владивосток",
+    "to": "Москва",
+    "carrier": "Pobeda",
+    "flightTime": 520,
+    "price": 500
+  },
+  {
+    "from": "Москва",
+    "to": "Тель-Авив",
+    "carrier": "Aeroflot",
+    "flightTime": 170,
+    "price": 300
+  }
+]
